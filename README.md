@@ -1,8 +1,8 @@
  👩‍💻 Portafolio QA – Liliana Concepción Gutiérrez Yáñez
 
  👋 Sobre mí
-Soy QA Engineer Jr en formación, actualmente cursando QA Engineering, en el BootCamp de TripleTen, con enfoque en pruebas funcionales y aseguramiento de calidad.
-Me interesa el aseguramiento de calidad, pruebas funcionales y la mejora continua del software.
+Soy QA Engineer Jr en formación, actualmente cursando QA Engineering en el Bootcamp de TripleTen, con enfoque en pruebas funcionales y aseguramiento de calidad.  
+Me interesa contribuir a la calidad del software mediante el diseño y ejecución de pruebas, detección de defectos y mejora continua de los productos.
 
  🛠️ Habilidades
 - Pruebas manuales
@@ -27,19 +27,24 @@ Diseño de listas de comprobación
 
 Elaboración de casos de prueba
 
+Resultado:  
+Se logró una mejor cobertura de pruebas, identificando posibles fallos antes de la fase de producción y asegurando el cumplimiento de los criterios de aceptación.
+
 📎 Evidencia:  
 /proyecto-1-casos-prueba/Casos_de_prueba_sprint_3.xlsx
 ---
 
  🧪 Proyecto 2 – Ejecución de Pruebas
-Ejecución de casos de prueba y documentación de resultados, validando el correcto funcionamiento de los flujos y detectando posibles defectos.
-Actividades realizadas:
+Descripción:  
+Ejecución de casos de prueba y documentación de resultados para validar el correcto funcionamiento de los flujos de una aplicación web y detectar posibles defectos.
 
-Ejecución de pruebas
+Actividades realizadas:  
+- Ejecución de pruebas funcionales  
+- Registro de resultados  
+- Validación de estados  
 
-Registro de resultados
-
-Validación de estados
+Resultado:  
+Identificación de defectos funcionales y validación de los flujos principales, contribuyendo a una mayor estabilidad del producto.
 
 📎 Evidencia:
 /proyecto-2-ejecucion-pruebas/Resultados_pruebas_sprint_3.xlsx
